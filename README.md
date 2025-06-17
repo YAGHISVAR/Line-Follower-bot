@@ -15,7 +15,7 @@ git clone https://github.com/YAGHISVAR/Line-Follower-Bot.git
 
 ```
 
-> Replace `<repository-url>` with the URL of this repository and `<repository-folder>` with the name of the cloned directory.
+> Then download Anaconda3 for creating a virtual environment
 
 ---
 
